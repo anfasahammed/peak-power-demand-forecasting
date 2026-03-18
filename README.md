@@ -36,10 +36,10 @@ Time span: ~1.5 years
 ```text id="0hp5bo"
 project/
 │
-├── data.csv
-├── morning_model.py
-├── day_model.py
-├── evening_model.py
+├── peak_demand.csv
+├── morning.ipynb
+├── day.ipynb
+├── evening.ipynb
 └── README.md
 ```
 
@@ -132,6 +132,37 @@ python evening.ipynb
 
 * Anfas Ahammed
 * Muhammed Salman
+
+---
+
+
+## 🌍 Real-World Applications
+
+This project has direct applications in the energy and power sector:
+
+### ⚡ Power Grid Management
+
+Helps electricity providers forecast demand and ensure stable power supply, reducing the risk of outages.
+
+### 🔌 Load Scheduling & Generation Planning
+
+Enables efficient scheduling of power generation based on predicted demand across morning, day, and evening periods.
+
+### 💰 Cost Optimization
+
+Reduces operational costs by avoiding overproduction and minimizing reliance on expensive emergency power purchases.
+
+### 🌞 Renewable Energy Integration
+
+Supports better integration of renewable energy sources like solar and wind by aligning supply with demand patterns.
+
+### 🏙️ Smart City Planning
+
+Assists in infrastructure planning and long-term energy demand forecasting for urban development.
+
+### 📊 Energy Market Decisions
+
+Helps in electricity trading and pricing strategies by predicting demand fluctuations.
 
 ---
 
