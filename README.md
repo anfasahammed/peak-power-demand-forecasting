@@ -52,7 +52,6 @@ Each script builds an independent time series model for its respective demand co
 ### 1. Data Preprocessing
 
 * Date parsing and time indexing
-* Handling missing values
 * Train-test split
 
 ---
